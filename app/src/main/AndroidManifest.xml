@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="teclag.c18130534.u5asistenciabdapp">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        tools:replace="android:theme"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".Acerca" />
+        <activity android:name=".ConsultarAlumnoActivity" />
+        <activity android:name=".ConsultarAlumnoActivity2" />
+        <activity android:name=".ConsultarAlumnoActivity3" />
+        <activity android:name=".ConsultarFechaActivity" />
+        <activity android:name=".ConsultarFecha2Activity" />
+        <activity android:name=".ConsultarFecha3Activity" />
+        <activity android:name=".ConsultarListViewActivityAndr" />
+        <activity android:name=".ConsultarListViewActivityAndr2" />
+        <activity android:name=".ConsultarListViewActivityAndr3" />
+        <activity android:name=".ConsultarListaListViewActivity" />
+        <activity android:name=".ConsultarListaListViewActivity2" />
+        <activity android:name=".ConsultarListaListViewActivity3" />
+        <activity android:name=".DetalleAlumnoActivity" />
+        <activity android:name=".DetalleAlumnoActivity2" />
+        <activity android:name=".DetalleAlumnoActivity3" />
+    </application>
+
+</manifest>

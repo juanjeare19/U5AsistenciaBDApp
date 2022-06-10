@@ -1,0 +1,1606 @@
+2021-02-22 17131621: Ricardo Martinez  to  Everyone : PRESENTE
+2021-02-22 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-02-22 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-02-22 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-02-22 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-02-22 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-02-22 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-02-22 17130073: Adal Vega  to  Everyone : Presente
+2021-02-22 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-02-22 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-02-22 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-02-22 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-02-22 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-02-22 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-02-22 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-02-22 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-02-22 15131296: Armando Cabral  to  Everyone : PRESENTE
+2021-02-22 17130850: Jesus Valdez  to  Everyone : PRESENTE
+2021-02-22 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-02-22 16130783: Luis Alferez  to  Everyone : Presente
+2021-02-22 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-02-22 171000302:Iztac Wong  to  Everyone : PRESENTE
+2021-02-22 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-02-22 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-02-22 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-02-22 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-02-22 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-02-22 17131623: Jose Rodriguez  to  Everyone : PRESENTE
+2021-02-22 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-02-22 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-02-23 17131621: Ricardo Martinez  to  Everyone : presnte
+2021-02-23 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-02-23 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-02-23 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-02-23 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-02-23 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-02-23 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-02-23 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-02-23 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-02-23 16130783: Luis Alferez  to  Everyone : presente
+2021-02-23 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-02-23 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-02-23 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-02-23 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-02-23 17131621: Ricardo Martinez  to  Everyone : presente
+2021-02-23 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-02-23 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-02-23 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-02-23 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-02-23 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-02-23 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-02-23 17131623: Jose Rodriguez  to  Everyone : PRESENTE
+2021-02-23 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-02-23 171000302:Iztac Wong  to  Everyone : PRESENTE
+2021-02-23 17130576: Miguel Ángel Aguilera Medina  to  Everyone : PRESENTE
+2021-02-23 18130576: Alejandro Medina  to  Everyone : PRESENTE
+2021-02-23 15131296: Armando Cabral  to  Everyone : PRESENTE
+2021-02-23 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-02-23 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-02-23 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-02-23 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-02-23 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-02-23 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-02-23 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-02-23 17130850: Jesus Valdez  to  Everyone : PRESENTE
+2021-02-23 17130839: Andrés Rubín  to  Everyone : PRESENTE
+2021-02-24 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-02-24 17130073: Adal Vega  to  Everyone : Presente
+2021-02-24 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-02-24 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-02-24 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-02-24 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-02-24 17130854: José Antonio Zandate Luna  to  Everyone : PRESENTE
+2021-02-24 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-02-24 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-02-24 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-02-24 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-02-24 17131621: Ricardo Martinez  to  Everyone : PRESENTE
+2021-02-24 18130576: Alejandro Medina  to  Everyone : PRESENTE
+2021-02-24 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-02-24 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-02-24 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-02-24 17131623: Jose Rodriguez  to  Everyone : PRESENTE
+2021-02-24 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-02-24 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-02-24 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-02-24 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-02-24 17130850: Jesus Valdez  to  Everyone : PRESENTE
+2021-02-24 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-02-24 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-02-24 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-02-24 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-02-24 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-02-24 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-02-24 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-02-24 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-02-24 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-02-24 15131296: Armando Cabral  to  Everyone : PRESENTE
+2021-02-24 17130848: Angel Eduardo Soto García  to  Everyone : Presente
+2021-02-25 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-02-25 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-02-25 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-02-25 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-02-25 17131623: Jose Rodriguez  to  Everyone : PRESENTE
+2021-02-25 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-02-25 18130576: Alejandro Medina  to  Everyone : PRESENTE
+2021-02-25 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-02-25 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-02-25 17131621: Ricardo Martinez  to  Everyone : presente
+2021-02-25 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-02-25 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-02-25 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-02-25 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-02-25 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-02-25 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-02-25 17130850: Jesus Valdez  to  Everyone : PRESENTE
+2021-02-25 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-02-25 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-02-25 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-02-25 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-02-25 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-02-25 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-02-25 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-02-25 17130839: Andrés Rubín  to  Everyone : PRESENTE
+2021-02-25 17130576: Miguel Ángel Aguilera Medina  to  Everyone : PRESENTE
+2021-02-25 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-02-25 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-02-25 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-02-25 17130854: José Antonio Zandate Luna  to  Everyone : PRESENTE
+2021-02-25 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-02-25 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-02-25 15131296: Armando Cabral  to  Everyone : PRESENTE
+2021-02-25 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-02-25 17130028: Patricia Garcia Almanza : Justificado
+2021-02-26 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-02-26 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-02-26 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-02-26 15131296: Armando Cabral  to  Everyone : PRESENTE
+2021-02-26 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-02-26 17131623: Jose Rodriguez  to  Everyone : PRESENTE
+2021-02-26 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-02-26 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-02-26 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-02-26 17130839: Andrés Rubín  to  Everyone : PRESENTE
+2021-02-26 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-02-26 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-02-26 18130576: Alejandro Medina  to  Everyone : PRESENTE
+2021-02-26 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-02-26 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-02-26 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-02-26 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-02-26 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-02-26 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-02-26 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-02-26 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-02-26 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-02-26 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-02-26 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-02-26 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-02-26 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-02-26 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-02-26 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-02-26 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-02-26 17130576: Miguel Ángel Aguilera Medina  to  Everyone : PRESENTE
+2021-02-26 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-02-26 17130854: José Antonio Zandate Luna : Justificado
+2021-03-01 17130850: Jesus Valdez : PRESENTE
+2021-03-01 17130073: Adal Vega : PRESENTE
+2021-03-01 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-01 17130852: Erick Villegas : PRESENTE
+2021-03-01 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-01 171000063: Francisco Reza : PRESENTE
+2021-03-01 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-01 18130592: Javier Ramirez : PRESENTE
+2021-03-01 18130575: Armando Mayorga : PRESENTE
+2021-03-01 18130534: Juan Arellano : PRESENTE
+2021-03-01 18130561: Jesus Gonzalez : PRESENTE
+2021-03-01 16130783: Luis Alferez : PRESENTE
+2021-03-01 171000302: Iztac Wong : PRESENTE
+2021-03-01 17130844: Marcos Saucedo : PRESENTE
+2021-03-01 17131623: Jose Rodriguez : PRESENTE
+2021-03-01 17131621: Ricardo Martinez : PRESENTE
+2021-03-01 18131209: Misael Adame : PRESENTE
+2021-03-01 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-01 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-01 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-01 17130026: Juan Franco : PRESENTE
+2021-03-01 16130812: Manuel Gutierrez : PRESENTE
+2021-03-01 17130801: Salma Mazuca : PRESENTE
+2021-03-01 18130586: Perez Navarrete Juan Carlos : PRESENTE
+2021-03-01 17130839: Andrés Rubín : PRESENTE
+2021-03-01 18130583: Ayram Ochoa : PRESENTE
+2021-03-01 18130588: Cristian Piña : PRESENTE
+2021-03-01 17130028: Patricia Garcia : PRESENTE
+2021-03-01 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-01 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-01 17130836: Juan Carlos Romo : PRESENTE
+2021-03-02 17131621: Ricardo Martinez : PRESENTE
+2021-03-02 18130588: Cristian Piña : PRESENTE
+2021-03-02 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-02 18130561: Jesus Gonzalez : PRESENTE
+2021-03-02 18130576: Alejandro Medina : PRESENTE
+2021-03-02 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-02 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-02 17130852: Erick Villegas : PRESENTE
+2021-03-02 18130575: Armando Mayorga : PRESENTE
+2021-03-02 18131209: Misael Adame : PRESENTE
+2021-03-02 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-02 17130073: Adal Vega : PRESENTE
+2021-03-02 15131296: Armando Cabral : PRESENTE
+2021-03-02 17130801: Salma Mazuca : PRESENTE
+2021-03-02 17130028: Patricia Garcia : PRESENTE
+2021-03-02 17130844: Marcos Saucedo : PRESENTE
+2021-03-02 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-02 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-02 18130534: Juan Arellano : PRESENTE
+2021-03-02 18130592: Javier Ramirez : PRESENTE
+2021-03-02 16130783: Luis Alferez : PRESENTE
+2021-03-02 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-02 18130583: Ayram Ochoa : PRESENTE
+2021-03-02 17130026: Juan Franco : PRESENTE
+2021-03-02 18130597: Juan Robles Lara : PRESENTE
+2021-03-02 16130812: Manuel Gutierrez : PRESENTE
+2021-03-02 171000063: Francisco Reza : PRESENTE
+2021-03-02 18130586: Juan Carlos Perez : PRESENTE
+2021-03-02 171000302: Iztac Wong : PRESENTE
+2021-03-02 17130059: Iván Rios Carrillo : Presente
+2021-03-02 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-02 17131623: Jose Rodriguez : PRESENTE
+2021-03-02 17130850: Jesus Valdez : PRESENTE
+2021-03-03 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-03 18130561: Jesus Gonzalez : PRESENTE
+2021-03-03 17131623: Jose Rodriguez : PRESENTE
+2021-03-03 17130028: Patricia Garcia : PRESENTE
+2021-03-03 17130801: Salma Mazuca : PRESENTE
+2021-03-03 18130588: Cristian Piña : PRESENTE
+2021-03-03 18130586: Juan Carlos Perez : PRESENTE
+2021-03-03 17130850: Jesus Valdez : PRESENTE
+2021-03-03 18130583: Ayram Ochoa : PRESENTE
+2021-03-03 17130073: Adal Vega : PRESENTE
+2021-03-03 17131621: Ricardo Martinez : PRESENTE
+2021-03-03 17130839: Andrés Rubín : PRESENTE
+2021-03-03 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-03 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-03 17130852: Erick Villegas : PRESENTE
+2021-03-03 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-03 17130026: Juan Franco : PRESENTE
+2021-03-03 16130783: Luis Alferez : PRESENTE
+2021-03-03 18130592: Javier Ramirez : PRESENTE
+2021-03-03 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-03 18130597: Juan Robles Lara : PRESENTE
+2021-03-03 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-03 18130534: Juan Arellano : PRESENTE
+2021-03-03 17130844: Marcos Saucedo : PRESENTE
+2021-03-03 18130575: Armando Mayorga : PRESENTE
+2021-03-03 18130576: Alejandro Medina : PRESENTE
+2021-03-03 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-03 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-03 15131296: Armando Cabral : PRESENTE
+2021-03-03 171000302: Iztac Wong : PRESENTE
+2021-03-03 17130836: ROMO ARROYO JUAN CARLOS : Justificado
+2021-03-04 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-04 16130783: Luis Alferez : PRESENTE
+2021-03-04 17130073: Adal Vega : PRESENTE
+2021-03-04 17130801: Salma Mazuca : PRESENTE
+2021-03-04 17130839: Andrés Rubín : PRESENTE
+2021-03-04 18130561: Jesus Gonzalez : PRESENTE
+2021-03-04 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-04 171000063: Francisco Reza : PRESENTE
+2021-03-04 17130028: Patricia Garcia : PRESENTE
+2021-03-04 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-04 171000302: Iztac Wong : PRESENTE
+2021-03-04 18130575: Armando Mayorga : PRESENTE
+2021-03-04 17131621: Ricardo Martinez : PRESENTE
+2021-03-04 18130534: Juan Arellano : PRESENTE
+2021-03-04 18130583: Ayram Ochoa : PRESENTE
+2021-03-04 17131623: Jose Rodriguez : PRESENTE
+2021-03-04 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-04 18130576: Alejandro Medina : PRESENTE
+2021-03-04 17130026: Juan Franco : PRESENTE
+2021-03-04 18130588: Cristian Piña : PRESENTE
+2021-03-04 18131209: Misael Adame : PRESENTE
+2021-03-04 18130592: Javier Ramirez : PRESENTE
+2021-03-04 17130836: Juan Carlos Romo : PRESENTE
+2021-03-04 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-04 16130812: Manuel Gutierrez : PRESENTE
+2021-03-04 17130852: Erick Villegas : PRESENTE
+2021-03-04 16131450: Brenda Gpe Esquivel mayorga : presente
+2021-03-04 15131296: Armando Cabral : PRESENTE
+2021-03-04 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-04 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-04 17130850: Jesus Valdez : PRESENTE
+2021-03-04 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-04 18130597: Juan Robles Lara : PRESENTE
+2021-03-04 17130844: Marcos Saucedo : PRESENTE
+2021-03-05 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-05 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-05 18130588: Cristian Piña : PRESENTE
+2021-03-05 17131621: Ricardo Martinez : PRESENTE
+2021-03-05 17130028: Patricia Garcia : PRESENTE
+2021-03-05 16130812: Manuel Gutierrez : PRESENTE
+2021-03-05 18130561: Jesus Gonzalez : PRESENTE
+2021-03-05 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-05 16130783: Luis Alferez : PRESENTE
+2021-03-05 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-05 18130575: Armando Mayorga : PRESENTE
+2021-03-05 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-05 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-05 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-05 18131209: Misael Adame : PRESENTE
+2021-03-05 17130836: Juan Carlos Romo : PRESENTE
+2021-03-05 18130534: Juan Arellano : PRESENTE
+2021-03-05 17130026: Juan Franco : PRESENTE
+2021-03-05 18130583: Ayram Ochoa : PRESENTE
+2021-03-05 17130852: Erick Villegas : PRESENTE
+2021-03-05 17130073: Adal Vega : PRESENTE
+2021-03-05 17130850: Jesus Valdez : PRESENTE
+2021-03-05 171000063: Francisco Reza : PRESENTE
+2021-03-05 18130597: Juan Robles Lara : PRESENTE
+2021-03-05 17131623: Jose Rodriguez : PRESENTE
+2021-03-05 18130576: Alejandro Medina : PRESENTE
+2021-03-05 18130592: Javier Ramirez : PRESENTE
+2021-03-05 171000302: Iztac Wong : PRESENTE
+2021-03-05 17130801: Salma Mazuca : PRESENTE
+2021-03-05 18130586: Juan Carlos Perez : PRESENTE
+2021-03-05 17130839: Andrés Rubín : PRESENTE
+2021-03-05 15131296: Armando Cabral : PRESENTE
+2021-03-05 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-05 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-08 17131621: Ricardo Martinez : PRESENTE
+2021-03-08 18130575: Armando Mayorga : PRESENTE
+2021-03-08 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-08 16130812: Juan Manuel Gutierrez Rodriguez : PRESENTE
+2021-03-08 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-08 17130073: Adal Vega : PRESENTE
+2021-03-08 17130852: Erick Villegas : PRESENTE
+2021-03-08 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-08 17130801: Salma Mazuca : PRESENTE
+2021-03-08 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-08 18131209: Misael Adame : PRESENTE
+2021-03-08 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-08 18130597: Juan Robles Lara : PRESENTE
+2021-03-08 171000063: Francisco Reza : PRESENTE
+2021-03-08 16130783: Luis Alferez : PRESENTE
+2021-03-08 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-08 18130588: Cristian Piña : PRESENTE
+2021-03-08 18130592: Javier Ramirez : PRESENTE
+2021-03-08 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-08 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-08 18130534: Juan Arellano : PRESENTE
+2021-03-08 17130026: Juan Franco : PRESENTE
+2021-03-08 17131623: Jose Rodriguez : PRESENTE
+2021-03-08 17130028: Patricia Garcia : PRESENTE
+2021-03-08 171000302: Iztac Wong : PRESENTEE
+2021-03-08 18130583: Ayram Ochoa : PRESENTE
+2021-03-08 18130576: Alejandro Medina : PRESENTE
+2021-03-08 17130844: Marcos Saucedo : PRESENTE
+2021-03-08 17130839: Andrés Rubín : PRESENTE
+2021-03-08 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-08 188130561: Jesus Gonzalez : PRESENTE
+2021-03-08 17130836: Juan Carlos Romo : PRESENTE
+2021-03-09 17131621: Ricardo Martinez : PRESENTE
+2021-03-09 18130575: Armando Mayorga : PRESENTE
+2021-03-09 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-09 171000302: Iztac Wong : PRESENTE
+2021-03-09 17130801: Salma Mazuca : PRESENTE
+2021-03-09 18131209: Misael Adame : PRESENTE
+2021-03-09 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-09 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-09 17130852: Erick Villegas : PRESENTE
+2021-03-09 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-09 18130597: Juan Robles Lara : PRESENTE
+2021-03-09 17130844: Marcos Saucedo : PRESENTE
+2021-03-09 16130812: Manuel Gutierrez : PRESENTE
+2021-03-09 18130592: Javier Ramirez : PRESENTE
+2021-03-09 17130026: Juan Franco : PRESENTE
+2021-03-09 15131296: Armando Cabral : PRESENTE
+2021-03-09 18130588: Cristian Piña : PRESENTE
+2021-03-09 17130836: Juan Carlos Romo : PRESENTE
+2021-03-09 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-09 18130576: Alejandro Medina : PRESENTE
+2021-03-09 17130073: Adal Vega : PRESENTE
+2021-03-09 17130043: Ricardo Juarez Martinez : PRESNETEE
+2021-03-09 17131623: Jose Rodriguez : PRESENTE
+2021-03-09 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-09 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-09 18130583: Ayram Ochoa : PRESENTE
+2021-03-09 17130839: Andrés Rubín : PRESENTE
+2021-03-09 171000063: Francisco Reza : PRESENTE
+2021-03-09 18130561: Jesus gonzalez : Justificado
+2021-03-09 16130783: Alferez Luis : Justificado
+2021-03-09 17130028: Garcia Almanza Patricia : Justificado
+2021-03-09 18130534: Juan Arellano : Justificado
+2021-03-10 18130576: Alejandro Israel Medina Lujan : PRESENTE
+2021-03-10 17130801: Salma Mazuca : PRESENTE
+2021-03-10 17130028: Patricia Garcia : PRESENTE
+2021-03-10 15131296: Armando Cabral : PRESENTE
+2021-03-10 171000302: Iztac Wong : PRESENTE
+2021-03-10 18131209: Misael Adame : PRESENTE
+2021-03-10 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-10 17130073: Adal Vega : PRESENTE
+2021-03-10 17130026: Juan Franco : PRESENTE
+2021-03-10 18130597: Juan Robles Lara : PRESENTE
+2021-03-10 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-10 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-10 17131621: Ricardo Martinez : PRESENTE
+2021-03-10 18130588: Cristian Piña : PRESENTE
+2021-03-10 16130783: Luis Alferez : PRESENTE
+2021-03-10 18130534: Juan Arellano : PRESENTE
+2021-03-10 18130583: Ayram Ochoa : PRESENTE
+2021-03-10 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-10 17130852: Erick Villegas : PRESENTE
+2021-03-10 17130844: Marcos Saucedo : PRESENTE
+2021-03-10 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-10 171000063: Francisco Reza : PRESENTE
+2021-03-10 17131623: Jose Rodriguez : PRESENTE
+2021-03-10 18130592: Javier Ramirez : PRESENTE
+2021-03-10 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-10 17130854: Zandate Luna Jose : Justificado
+2021-03-11 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-11 18130575: Armando Mayorga : PRESENTE
+2021-03-11 18130588: Cristian Piña : PRESENTE
+2021-03-11 16130812: Juan Manuel Gutierrez Rodriguez : PRESENTE
+2021-03-11 17131621: Ricardo Martinez : PRESENTE
+2021-03-11 18130597: Juan Robles Lara : PRESENTE
+2021-03-11 17130801: Salma Mazuca : PRESENTE
+2021-03-11 17130073: Adal Vega : PRESENTE
+2021-03-11 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-03-11 17130852: Erick Villegas : PRESENTE
+2021-03-11 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-11 18131209: Misael Adame : PRESENTE
+2021-03-11 17130839: Andrés Rubín : PRESENTE
+2021-03-11 16130783: Luis Alferez : PRESENTE
+2021-03-11 17130854: Antonio Zandate : PRESENTE
+2021-03-11 18130576: Alejandro Medina : PRESENTE
+2021-03-11 18130561: Jesus Gonzalez : PRESENTE
+2021-03-11 171000063: Francisco Reza : PRESENTE
+2021-03-11 18130534: Juan Arellano : PRESENTE
+2021-03-11 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-11 18130583: Ayram Ochoa : PRESENTE
+2021-03-11 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-03-11 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-11 17130836: Juan Carlos Romo : PRESENTE
+2021-03-11 17130028: Patricia Garcia : PRESENTE
+2021-03-11 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-11 18130592: Javier Ramirez : PRESENTE
+2021-03-11 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-11 17130026: Juan Franco : PRESENTE
+2021-03-11 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-11 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-11 15131296: Armando Cabral : PRESENTE
+2021-03-16 17131621: Ricardo Martinez : PRESENTE
+2021-03-16 18130588: Cristian Piña : PRESENTE
+2021-03-16 18130597: Juan Robles Lara : PRESENTE
+2021-03-16 17130801: Salma Mazuca : PRESENTE
+2021-03-16 16130812: Manuel Gutiérrez : PRESENTE
+2021-03-16 18130583: Ayram Ochoa : PRESENTE
+2021-03-16 18130561: Jesus Gonzalez : PRESENTE
+2021-03-16 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-16 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-16 18130576: Alejandro Medina : PRESENTE
+2021-03-16 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-16 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-16 18130592: Javier Ramirez : PRESENTE
+2021-03-16 16130783: Luis Alferez : PRESENTE
+2021-03-16 18130575: Armando Mayorga : PRESENTE
+2021-03-16 17130073: Adal Vega : PRESENTE
+2021-03-16 171000302: Iztac Wong : PRESENTE
+2021-03-16 171000063: Francisco Reza : PRESENTE
+2021-03-16 17130852: Erick Villegas : PRESENTE
+2021-03-16 17130026: Juan Franco : PRESENTE
+2021-03-16 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-16 18130534: Juan Arellano : PRESENTE
+2021-03-16 17130028: Patricia Garcia : PRESENTE
+2021-03-16 15131296: Armando Cabral : PRESENTE
+2021-03-16 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-03-16 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-16 18131209: Misael Adame : PRESENTE
+2021-03-16 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-03-16 17130844: Marcos Saucedo : PRESENTE
+2021-03-16 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-16 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-16 17130836: Romo Arroyo Juan Carlos : justificado
+2021-03-17 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-17 18130561: Jesus Gonzalez : PRESENTE
+2021-03-17 17130028: Patricia Garcia : PRESENTE
+2021-03-17 17130073: Adal Vega : PRESENTE
+2021-03-17 18130586: Perez Navarrete Juan Carlos : PRESENTE
+2021-03-17 18130588: Cristian Piña : PRESENTE
+2021-03-17 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-17 17130836: Juan Carlos Romo : PRESENTE
+2021-03-17 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-17 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-17 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-17 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-03-17 18130575: Armando Mayorga : PRESENTE
+2021-03-17 15131296: Armando Cabral : PRESENTE
+2021-03-17 17130844: Marcos Saucedo : PRESENTE
+2021-03-17 171000063: Francisco Reza : PRESENTE
+2021-03-17 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-17 18130597: Juan Robles Lara : PRESENTE
+2021-03-17 18131209: Misael Adame : PRESENTE
+2021-03-17 17130852: Erick Villegas : PRESENTE
+2021-03-17 18130592: Javier Ramirez : PRESENTE
+2021-03-17 17130801: Salma Mazuca : PRESENTE
+2021-03-17 18130583: Ayram Ochoa : PRESENTE
+2021-03-17 17130839: Andrés Rubín : PRESENTE
+2021-03-17 17131621: Ricardo Martinez : PRESENTE
+2021-03-17 16130783: Luis Alferez : PRESENTE
+2021-03-17 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-03-17 171000302: Iztac Wong : PRESENTE
+2021-03-17 17131623: Jose Rodriguez : PRESENTE
+2021-03-17 18130534: Juan Arellano : PRESENTE
+2021-03-17 17130026: Juan Franco : PRESENTE
+2021-03-17 17130059: Rios Carrillo Ivan : justificado
+2021-03-17 18130576: Medina Lujan Alejandro : justificado
+2021-03-18 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-18 18131209: Misael Adame : PRESENTE
+2021-03-18 17130836: Juan Carlos Romo : PRESENTE
+2021-03-18 17130839: Andrés Rubín : PRESENTE
+2021-03-18 18130561: Jesus Gonzalez : PRESENTE
+2021-03-18 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-18 18130588: Cristian Piña : PRESENTE
+2021-03-18 17131621: Ricardo Martinez : PRESENTE
+2021-03-18 18130575: Armando Mayorga : PRESENTE
+2021-03-18 17130073: Adal Vega : PRESENTE
+2021-03-18 17131623: Jose Rodriguez : PRESENTE
+2021-03-18 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-18 16130783: Luis Alferez : PRESENTE
+2021-03-18 17130028: Patricia Garcia : PRESENTE
+2021-03-18 18130534: Juan Arellano : PRESENTE
+2021-03-18 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-03-18 17130026: Juan Franco : PRESENTE
+2021-03-18 17130801: Salma Mazuca : PRESENTE
+2021-03-18 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-18 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-03-18 171000302: Iztac Wong : PRESENTE
+2021-03-18 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-18 18130583: Ayram Ochoa : PRESENTE
+2021-03-18 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-18 17130844: Marcos Saucedo : PRESENTE
+2021-03-18 17130852: Erick Villegas : PRESENTE
+2021-03-18 18130597: Juan Robles Lara : PRESENTE
+2021-03-18 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-18 16130812: Manuel Gutiérrez : PRESENTE
+2021-03-18 171000063: Francisco Reza : PRESENTE
+2021-03-18 17130059: Iván Rios Carrillo : Presente
+2021-03-18 18130576: MEDINA LUJAN ALEJANDRO ISRAEL : justificado
+2021-03-19 18130575: Armando Mayorga : PRESENTE
+2021-03-19 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-19 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-03-19 17131623: Jose Rodriguez : PRESENTE
+2021-03-19 18130561: Jesus Gonzalez : PRESENTE
+2021-03-19 17131621: Ricardo Martinez : PRESENTE
+2021-03-19 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-19 16130783: Luis Alferez : PRESENTE
+2021-03-19 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-19 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-03-19 171000063: Francisco Reza : PRESENTE
+2021-03-19 17130073: Adal Vega : PRESENTE
+2021-03-19 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-19 18131209: Misael Adame : PRESENTE
+2021-03-19 17130026: Juan Franco : PRESENTE
+2021-03-19 17130028: Patricia Garcia : PRESENTE
+2021-03-19 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-19 18130597: Juan Robles Lara : PRESENTE
+2021-03-19 17130839: Andrés Rubín : PRESENTE
+2021-03-19 18130576: Alejandro Medina : PRESENTE
+2021-03-19 18130592: Javier Ramirez : PRESENTE
+2021-03-19 18130588: Cristian Piña : PRESENTE
+2021-03-19 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-19 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-19 18130583: Ayram Ochoa : PRESENTE
+2021-03-19 17130801: Salma Mazuca : PRESENTE
+2021-03-19 18130534: Juan Arellano : PRESENTE
+2021-03-19 171000302: Iztac Wong : PRESENTE
+2021-03-19 17130852: Erick Villegas : PRESENTE
+2021-03-19 17130836: Juan Carlos Romo : PRESENTE
+2021-03-19 17130844: Marcos Saucedo : PRESENTE
+2021-03-19 16130812: Manuel Gutiérrez : PRESENTE
+2021-03-19 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-23 18130561: Jesus Gonzalez : PRESENTE
+2021-03-23 18130575: Armando Mayorga : PRESENTE
+2021-03-23 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-23 17131621: Ricardo Martinez : PRESENTE
+2021-03-23 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-23 16130783: Luis Alferez : PRESENTE
+2021-03-23 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-23 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-23 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-23 17131623: Jose Rodriguez : PRESENTE
+2021-03-23 171000063: Francisco Reza : PRESENTE
+2021-03-23 18131209: Misael Adame : PRESENTE
+2021-03-23 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-23 18130588: Cristian Piña : PRESENTE
+2021-03-23 17130026: Juan Franco : PRESENTE
+2021-03-23 15131296: Armando Cabral : PRESENTE
+2021-03-23 171000302: Iztac Wong : PRESENTE
+2021-03-23 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-23 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-23 18130592: Javier Ramirez : PRESENTE
+2021-03-23 17130801: Salma Mazuca : PRESENTE
+2021-03-23 17130028: Patricia Garcia : PRESENTE
+2021-03-23 18130597: Juan Robles Lara : PRESENTE
+2021-03-23 17130836: Juan Carlos Romo : PRESENTE
+2021-03-23 17130073: Adal Vega : PRESENTE
+2021-03-23 18130534: Juan Arellano : PRESENTE
+2021-03-23 17130852: Erick Villegas : PRESENTE
+2021-03-23 16130812: Manuel Gutiérrez : PRESENTE
+2021-03-23 18130576: Alejandro Medina : PRESENTE
+2021-03-23 17130026: Juan Franco : PRESENTE
+2021-03-23 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-23 17130844: Marcos Saucedo : PRESENTE
+2021-03-23 18130583: Ayram Ochoa : justificado
+2021-03-24 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-24 18130588: Cristian Piña : PRESENTE
+2021-03-24 17131621: Ricardo Martinez : PRESENTE
+2021-03-24 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-24 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-24 17130073: Adal Vega : PRESENTE
+2021-03-24 17130801: Salma Mazuca : PRESENTE
+2021-03-24 171000063: Francisco Reza : PRESENTE
+2021-03-24 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-24 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-24 18130561: Jesus Gonzalez : PRESENTE
+2021-03-24 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-03-24 18130534: Juan Arellano : PRESENTE
+2021-03-24 17130836: Juan Carlos Romo : PRESENTE
+2021-03-24 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-24 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-24 18130575: Armando Mayorga : PRESENTE
+2021-03-24 17130026: Juan Franco : PRESENTE
+2021-03-24 17130839: Andrés Rubín : PRESENTE
+2021-03-24 18130597: Juan Robles Lara : PRESENTE
+2021-03-24 18130576: Alejandro Medina : PRESENTE
+2021-03-24 18130583: Ayram Ochoa : PRESENTE
+2021-03-24 17130852: Erick Villegas : PRESENTE
+2021-03-24 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-24 18131209: Misael Adame : PRESENTE
+2021-03-24 18130592: Javier Ramirez : PRESENTE
+2021-03-24 1613812: Manuel Gutierrez : PRESENTE
+2021-03-24 15131296: Armando Cabral : PRESENTE
+2021-03-24 17130028: Patricia Garcia : PRESENTE
+2021-03-24 171000302: Iztac Wong : PRESENTE
+2021-03-24 17130844: Marcos Saucedo : PRESENTE
+2021-03-25 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-25 18130575: Armando Mayorga : PRESENTE
+2021-03-25 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-25 17130028: Patricia Garcia : PRESENTE
+2021-03-25 17130073: Adal Vega : PRESENTE
+2021-03-25 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-25 18130561: Jesus Gonzalez : PRESENTE
+2021-03-25 17130801: Salma Mazuca : PRESENTE
+2021-03-25 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-03-25 17131621: Ricardo Martinez : PRESENTE
+2021-03-25 15131296: Armando Cabral : PRESENTE
+2021-03-25 171000302: Iztac Wong : PRESENTE
+2021-03-25 18131209: Misael Adame : PRESENTE
+2021-03-25 18130592: Javier Ramirez : PRESENTE
+2021-03-25 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-25 17130852: Erick Villegas : PRESENTE
+2021-03-25 16130783: Luis Alferez : PRESENTE
+2021-03-25 18130588: Cristian Piña : PRESENTE
+2021-03-25 18130583: Ayram Ochoa : PRESENTE
+2021-03-25 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-25 18130534: Juan Arellano : PRESENTE
+2021-03-25 17130848: Angel Eduardo Soto García : PRESENTE
+2021-03-25 17130836: Juan Carlos Romo : PRESENTE
+2021-03-25 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-25 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-03-25 171000063: Francisco Reza : PRESENTE
+2021-03-25 17131623: Jose Rodriguez : PRESENTE
+2021-03-25 17130844: Marcos Saucedo : PRESENTE
+2021-03-25 16130812: Manuel Gutierrez : PRESENTE
+2021-03-25 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-03-25 18130597: Juan Robles Lara : PRESENTE
+2021-03-25 17130026: Juan Franco : PRESENTE
+2021-03-25 17130839: Andrés Rubín : PRESENTE
+2021-03-25 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-03-25 18130576: Alejandro Medina : PRESENTE
+2021-03-26 18130588: Cristian Piña : PRESENTE
+2021-03-26 17130854: José Antonio Zandate Luna : PRESENTE
+2021-03-26 17130004: Aylin Arias Fernandez : PRESENTE
+2021-03-26 18130561: Jesus Gonzalez : PRESENTE
+2021-03-26 17130073: Adal Vega : PRESENTE
+2021-03-26 18130597: Juan Robles Lara : PRESENTE
+2021-03-26 18130575: Armando Mayorga : PRESENTE
+2021-03-26 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-03-26 17131621: Ricardo Martinez : PRESENTE
+2021-03-26 15131296: Armando Cabral : PRESENTE
+2021-03-26 171000063: Francisco Reza : PRESENTE
+2021-03-26 18130576: Alejandro Medina : PRESENTE
+2021-03-26 18130534: Juan Arellano : PRESENTE
+2021-03-26 18130583: Ayram Ochoa : PRESENTE
+2021-03-26 17130839: Andrés Rubín : PRESENTE
+2021-03-26 18130586: Juan Carlos Perez Navarrete : PRESENTE
+2021-03-26 17130028: Patricia Garcia : PRESENTE
+2021-03-26 17130059: Iván Rios Carrillo : PRESENTE
+2021-03-26 17130836: Juan Carlos Romo : PRESENTE
+2021-03-26 17130801: Salma Mazuca : PRESENTE
+2021-03-26 17131623: Jose Rodriguez : PRESENTE
+2021-03-26 17130026: Juan Franco : PRESENTE
+2021-03-26 171000302: Iztac Wong : PRESENTE
+2021-03-26 18131209: Misael Adame : PRESENTE
+2021-03-26 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-03-26 17130844: Marcos Saucedo : PRESENTE
+2021-03-26 18130592: Javier Ramirez : PRESENTE
+2021-03-26 17130852: Erick Villegas : PRESENTE
+2021-03-26 16130783: Luis Alferez : PRWA
+2021-03-26 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-03-26 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-03-26 16130812: Manuel Gutierrez : PRESENTE
+2021-03-26 16130783: Luis Alferez : PRESENTE
+2021-03-26 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-12 16130812: Manuel Gutierrez : PRESENTE
+2021-04-12 18130575: Armando Mayorga : PRESENTE
+2021-04-12 17130073: Adal Vega : PRESENTE
+2021-04-12 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-12 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-12 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-12 18130588: Cristian Piña : PRESENTE
+2021-04-12 18130561: Jesus Gonzalez : PRESENTE
+2021-04-12 17130852: Erick Villegas : PRESENTE
+2021-04-12 18130583: Ayram Ochoa : PRESENTE
+2021-04-12 17130028: Patricia Garcia : PRESENTE
+2021-04-12 18130586: Juan Carlos Perez : PRESENTE
+2021-04-12 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-12 17130801: Salma Mazuca : PRESENTE
+2021-04-12 17130839: Andrés Rubín : PRESENTE
+2021-04-12 18130597: Juan Robles Lara : PRESENTE
+2021-04-12 18131209: Misael Adame : PRESENTE
+2021-04-12 17130026: Juan Franco : PRESENTE
+2021-04-12 17130844: Marcos Saucedo : PRESENTE
+2021-04-12 171000063: Francisco Reza : PRESENTE
+2021-04-12 17131621: Ricardo Martinez : PRESENTE
+2021-04-12 18130534: Juan Arellano : PRESENTE
+2021-04-12 16130783: Luis Alferez : PRESENTE
+2021-04-12 171000302: Iztac Wong : PRESENTE
+2021-04-12 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-12 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-12 18130592: Javier Ramirez : PRESENTE
+2021-04-12 17130854: José Antonio Zandate Luna : PRESENTE
+2021-04-12 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-12 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-12 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-04-12 17130836: Juan Carlos Romo : PRESENTE
+2021-04-12 18130576: Alejandro Medina : PRESENTE
+2021-04-14 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-14 18130588: Cristian Piña : PRESENTE
+2021-04-14 18130597: Juan Robles Lara : PRESENTE
+2021-04-14 17130073: Adal Vega : PRESENTE
+2021-04-14 18130561: Jesus Gonzalez  : PRESENTE
+2021-04-14 16130783: Luis Alferez : PRESENTE
+2021-04-14 17130043: Ricardo Juarez Martinez : Presente
+2021-04-14 18130586: Juan Carlos Perez : PRESENTE
+2021-04-14 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-14 171000302: Iztac Wong : PRESENTE
+2021-04-14 18130576: Alejandro Medina : PRESENTE
+2021-04-14 17131621: Ricardo Martinez : PRESENTE
+2021-04-14 17130028: Patricia Garcia : PRESENTE
+2021-04-14 17130852: Erick Villegas : PRESENTE
+2021-04-14 17130854: José Antonio Zandate Luna : PRESENTE
+2021-04-14 171000063: Francisco Reza : PRESENTE
+2021-04-14 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-14 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-14 15131296: Armando Cabral : PRESENTE
+2021-04-14 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-14 18131209: Misael Adame : PRESENTE
+2021-04-14 18130575: Armando Mayorga : PRESENTE
+2021-04-14 17131623: Jose Rodriguez : PRESENTE
+2021-04-14 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-14 18130534: Juan Arellano : PRESENTE
+2021-04-14 17130026: Juan Franco : PRESENTE
+2021-04-14 18130583: Ayram Ochoa : PRESENTE
+2021-04-14 18130592: Javier Ramirez : PRESENTE
+2021-04-14 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-14 17130844: Marcos Saucedo : PRESENTE
+2021-04-14 17130801: Salma Mazuca : PRESENTE
+2021-04-14 171000302: Iztac Wong : PRESENTE
+2021-04-15 18130588: Cristian Piña : PRESENTE
+2021-04-15 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-15 17130073: Adal Vega : PRESENTE
+2021-04-15 18130575: Armando Mayorga : PRESENTE
+2021-04-15 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-15 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-15 17130026: Juan Franco : PRESENTE
+2021-04-15 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-15 171000302: Iztac Wong : PRESENTE
+2021-04-15 18130586: Juan Carlos Perez : PRESENTE
+2021-04-15 17130028: Patricia Garcia : PRESENTE
+2021-04-15 16130783: Luis Alferez : PRESENTE
+2021-04-15 18130592: Javier Ramirez : PRESENTE
+2021-04-15 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-15 171000063: Francisco Reza : PRESENTE
+2021-04-15 17130836: Juan Carlos Romo : PRESENTE
+2021-04-15 18130576: Alejandro Medina : PRESENTE
+2021-04-15 17131621: Ricardo Martinez : PRESENTE
+2021-04-15 18131209: Misael Adame : PRESENTE
+2021-04-15 17130801: Salma Mazuca : PRESENTE
+2021-04-15 18130534: Juan Arellano : PRESENTE
+2021-04-15 17130844: Marcos Saucedo : PRESENTE
+2021-04-15 18130583: Ayram Ochoa : PRESENTE
+2021-04-15 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-15 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-15 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-15 18130597: Juan Robles Lara : PRESENTE
+2021-04-15 17130852: Erick Villegas : PRESENTE
+2021-04-15 17130854: José Antonio Zandate Luna : PRESENTE
+2021-04-15 17130839: Andrés Rubín : PRESENTE
+2021-04-16 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-16 18130575: Armando Mayorga : PRESENTE
+2021-04-16 18130583: Ayram Ochoa : PRESENTE
+2021-04-16 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-16 18130588: Cristian Piña : PRESENTE
+2021-04-16 171000302: Iztac Wong : PRESENTE
+2021-04-16 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-16 17130028: Patrica Garcia : PRESENTE
+2021-04-16 171000063: Francisco Reza : PRESENTE
+2021-04-16 17130852: Erick Villegas : PRESENTE
+2021-04-16 15131296: Armando Cabral : PRESENTE
+2021-04-16 18130592: Javier Ramirez : PRESENTE
+2021-04-16 17131621: Ricardo Martinez : PRESENTE
+2021-04-16 18130586: Juan Carlos Perez : PRESENTE
+2021-04-16 17130854: José Antonio Zandate Luna : PRESENTE
+2021-04-16 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-16 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-16 17130801: Salma Mazuca : PRESENTE
+2021-04-16 17130844: Marcos Saucedo : PRESENTE
+2021-04-16 17130073: Adal Vega : PRESENTE
+2021-04-16 18130534: Juan Arellano : PRESENTE
+2021-04-16 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-16 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-04-16 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-16 17130026: Juan Franco : PRESENTE
+2021-04-16 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-16 16130783: Luis Alferez : PRESENTE
+2021-04-19 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-19 18130561: Jesus Gonzalez : PRESENTE
+2021-04-19 18130575: Armando Mayorga : PRESENTE
+2021-04-19 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-19 18130597: Juan Robles Lara : PRESENTE
+2021-04-19 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-19 171000063: Francisco Reza : PRESENTE
+2021-04-19 18130583: Ayram Ochoa : PRESENTE
+2021-04-19 18130586: Juan Carlos Perez : PRESENTE
+2021-04-19 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-19 171000302: Iztac Wong : PRESENTE
+2021-04-19 17131623: Jose Rodriguez : PRESENTE
+2021-04-19 17130852: Erick Villegas : PRESENTE
+2021-04-19 17130854: José Antonio Zandate Luna : PRESENTE
+2021-04-19 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-19 17130028: Patrica Garcia : PRESENTE
+2021-04-19 18130592: Javier Ramirez : PRESENTE
+2021-04-19 171000063: Francisco Reza : PRESENTE
+2021-04-19 17130026: Juan Franco : PRESENTE
+2021-04-19 17131621: Ricardo Martinez : PRESENTE
+2021-04-19 17130801: Salma Mazuca : PRESENTE
+2021-04-19 18130576: Alejandro Medina : PRESENTE
+2021-04-19 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-19 16130783: Luis Alferez : PRESENTE
+2021-04-19 18130534: Juan Arellano : PRESENTE
+2021-04-19 18131209: Misael Adame : PRESENTE
+2021-04-19 17130073: Adal Vega : PRESENTE
+2021-04-19 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-19 17130844: Marcos Saucedo : PRESENTE
+2021-04-19 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-19 18130588: Cristian Piña : PRESENTE
+2021-04-19 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-19 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-19 18130575: Armando Mayorga : PRESENTE
+2021-04-19 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-04-19 17130836: Romo Arroyo Juan Carlos : PRESENTE
+2021-04-20 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-20 18130575: Armando Mayorga : PRESENTE
+2021-04-20 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-20 171000063: Francisco Reza : PRESENTE
+2021-04-20 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-20 18130583: Ayram Ochoa : PRESENTE
+2021-04-20 17130026: Juan Franco : PRESENTE
+2021-04-20 17131621: Ricardo Martinez : PRESENTE
+2021-04-20 18130586: Juan Carlos Perez : PRESENTE
+2021-04-20 17130073: Adal Vega : PRESENTE
+2021-04-20 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-20 17130844: Marcos Saucedo : PRESENTE
+2021-04-20 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-20 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-04-20 18131209: Misael Adame : PRESENTE
+2021-04-20 17130801: Salma Mazuca : PRESENTE
+2021-04-20 18130588: Cristian Piña : PRESENTE
+2021-04-20 18130561: Jesus Gonzalez : PRESENTE
+2021-04-20 17130059: Ivan Rios Carrillo : PRESENTE
+2021-04-20 17130852: Erick Villegas : PRESENTE
+2021-04-20 15131296: Armando Cabral : PRESENTE
+2021-04-20 16130783: Luis Alferez : PRESENTE
+2021-04-20 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-20 171000302: Iztac Wong : PRESENTE
+2021-04-20 18130534: Juan Arellano : PRESENTE
+2021-04-20 18130592: Javier Ramirez : PRESENTE
+2021-04-20 17130028: Patricia Garcia : PRESENTE
+2021-04-20 18130597: Juan Robles Lara : PRESENTE
+2021-04-20 18130576: Alejandro Medina : PRESENTE
+2021-04-20 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-20 17130836: Juan Carlos Romo : PRESENTE
+2021-04-20 17130839: Andrés Rubín : PRESENTE
+2021-04-20 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-21 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-21 18130575: Armando Mayorga : PRESENTE
+2021-04-21 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-21 17130801: Salma Mazuca : PRESENTE
+2021-04-21 17130028: Patricia Garcia : PRESENTE
+2021-04-21 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-21 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-21 18130586: Juan Carlos Perez : PRESENTE
+2021-04-21 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-21 16130783: Luis Alferez : PRESENTE
+2021-04-21 17130852: Erick Villegas : PRESENTE
+2021-04-21 171000302: Iztac Wong : PRESENTE
+2021-04-21 18131209: Misael Adame : PRESENTE
+2021-04-21 18130597: Juan Robles Lara : PRESENTE
+2021-04-21 18130576: Alejandro Medina : PRESENTE
+2021-04-21 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-21 18130588: Cristian Piña : PRESENTE
+2021-04-21 18130583: Ayram Ochoa : PRESENTE
+2021-04-21 17130043: Ricardo Juarez Martinez : prEsente
+2021-04-21 18130592: Javier Ramirez : PRESENTE
+2021-04-21 17130836: Juan Carlos Romo : PRESENTE
+2021-04-21 15131296: Armando Cabral : PRESENTE
+2021-04-21 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-04-21 17130854: José Antonio Zandate Luna : PRESENTE
+2021-04-21 18130534: Juan Arellano : PRESENTE
+2021-04-21 17130073: Adal Vega : PRESENTE
+2021-04-21 17130844: Marcos Saucedo : PRESENTE
+2021-04-21 171000063: Francisco Reza : PRESENTE
+2021-04-21 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-21 17130839: Rubin de la Cruz Andres : justificado
+2021-04-21 17130026: Franco Casas Juan Antonio : justificado
+2021-04-21 17130764: Barajas Cabrales Cristian : justificado
+2021-04-21 18130561: Gonzalez Ramirez Jesus Gerardo : justificado
+2021-04-26 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-26 18130575: Armando Mayorga : PRESENTE
+2021-04-26 17130073: Adal Vega : PRESENTE
+2021-04-26 18130597: Juan Robles Lara : PRESENTE
+2021-04-26 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-26 17130839: Andrés Rubín : PRESENTE
+2021-04-26 18130576: Alejandro Medina : PRESENTE
+2021-04-26 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-26 18130534: Juan Arellano : PRESENTE
+2021-04-26 16130783: Luis Alferez : PRESENTE
+2021-04-26 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-26 18130588: Cristian Piña : PRESENTE
+2021-04-26 18130561: Jesus Gonzalez  : PRESENTE
+2021-04-26 18130592: Javier Ramirez : PRESENTE
+2021-04-26 17131621: Ricardo Martinez : PRESENTE
+2021-04-26 15131296: Armando Cabral : PRESENTE
+2021-04-26 17130028: Patricia Garcia : PRESENTE
+2021-04-26 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-26 18130583: Ayram Ochoa : PRESENTE
+2021-04-26 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-26 18131209: Misael Adame : PRESENTE
+2021-04-26 17130836: Juan Carlos Romo : PRESENTE
+2021-04-26 18130586: Juan Carlos Perez : PRESENTE
+2021-04-26 17130844: Marcos Saucedo : PRESENTE
+2021-04-26 17130852: Erick Villegas : PRESENTE
+2021-04-26 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-04-26 17131623: Jose Rodriguez : PRESENTE
+2021-04-26 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-26 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-26 171000063: Francisco Reza : PRESENTE
+2021-04-26 16131450: Brenda Gpe Esquivel mayorga : PRESSENTE
+2021-04-27 18130575: Armando Mayorga : PRESENTE
+2021-04-27 17131621: Ricardo Martinez : PRESENTE
+2021-04-27 18130588: Cristian Piña : PRESENTE
+2021-04-27 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-27 18130561: Jesus Gonzalez : PRESENTE
+2021-04-27 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-27 18131209: Misael Adame : PRESENTE
+2021-04-27 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-27 18130576: Alejandro Medina : PRESENTE
+2021-04-27 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-27 17130028: Patricia Garcia : PRESENTE
+2021-04-27 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-27 171000302: Iztac Wong : PRESENTE
+2021-04-27 17130026: Juan Franco : PRESENTE
+2021-04-27 18130597: Juan Robles Lara : PRESENTE
+2021-04-27 17130764: Barajas Cabrales Cristian :   PRESENTE
+2021-04-27 16130783: Luis Alferez : PRESENTE
+2021-04-27 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-27 17130854: Antonio Zandate : PRESENTE
+2021-04-27 18130534: Juan Arellano : PRESENTE
+2021-04-27 17130852: Erick Villegas : PRESENTE
+2021-04-27 17130801: Salma Mazuca : PRESENTE
+2021-04-27 18130592: Javier Ramirez : PRESENTE
+2021-04-27 17130836: Juan Carlos Romo : PRESENTE
+2021-04-27 17130073: Adal Vega : PRESENTE
+2021-04-27 18130583: Ayram Ochoa : PRESENTE
+2021-04-27 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-27 17130844: Marcos Saucedo : PRESENTE
+2021-04-27 17130576: Miguel Angel Aguilera Medina : PRESENTE
+2021-04-27 171000063: REZA JARA PEDRO FRANCISCO : justificado
+2021-04-28 171000302: Iztac Wong : PRESENTE
+2021-04-28 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-28 17130073: Adal Vega : PRESENTE
+2021-04-28 18131209: Misael Adame : PRESENTE
+2021-04-28 17130801: Salma Mazuca : PRESENTE
+2021-04-28 18130561: Jesus Gonzalez : PRESENTE
+2021-04-28 18130575: Armando Mayorga : PRESENTE
+2021-04-28 17130854: Antonio Zandate : PRESENTE
+2021-04-28 16130783: Luis Alferez : PRESENTE
+2021-04-28 18130534: Juan Arellano : PRESENTE
+2021-04-28 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-28 18130597: Juan Robles Lara : PRESENTE
+2021-04-28 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-28 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-28 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-28 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-28 17131621: Ricardo Martinez : PRESENTE
+2021-04-28 17130026: Juan Franco : PRESENTE
+2021-04-28 17130844: Marcos Saucedo : PRESENTE
+2021-04-28 17130839: Andrés Rubín : PRESENTE
+2021-04-28 18130592: Javier Ramirez : PRESENTE
+2021-04-28 18130586: Juan Carlos Perez : PRESENTE
+2021-04-28 18130588: Cristian Piña : PRESENTE
+2021-04-28 18130583: Ayram Ochoa : PRESENTE
+2021-04-28 18130576: Alejandro Medina : PRESENTE
+2021-04-28 17130028: Patricia Garcia : PRESENTE
+2021-04-28 17130836: Juan Carlos Romo : PRESENTE
+2021-04-28 17130852: Erick Villegas : PRESENTE
+2021-04-28 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-28 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-04-28 171000063: Francisco Reza : PRESENTE
+2021-04-28 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-29 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-04-29 18130597: Juan Robles Lara : PRESENTE
+2021-04-29 17130028: Patricia Garcia : PRESENTE
+2021-04-29 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-29 16130783: Luis Alferez : PRESENTE
+2021-04-29 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-29 17130844: Marcos Saucedo : PRESENTE
+2021-04-29 18130575: Armando Mayorga : PRESENTE
+2021-04-29 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-29 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-29 171000302: Iztac Wong : PRESENTE
+2021-04-29 17130839: Andrés Rubín : PRESENTE
+2021-04-29 171000063: Francisco Reza : PRESENTE
+2021-04-29 17130026: Juan Franco : PRESENTE
+2021-04-29 17131623: Jose Rodriguez : PRESENTE
+2021-04-29 17130801: Salma Mazuca : PRESENTE
+2021-04-29 18130586: Juan Carlos Perez : PRESENTE
+2021-04-29 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-04-29 17130852: Erick Villegas : PRESENTE
+2021-04-29 18130588: Cristian Piña : PRESENTE
+2021-04-29 16130812: Manuel Gutiérrez : PRESENTE
+2021-04-29 18131209: Misael Adame : PRESENTE
+2021-04-29 17130073: Adal Vega : PRESENTE
+2021-04-29 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-29 18130534: Juan Arellano : PRESENTE
+2021-04-29 18130592: Javier Ramirez : PRESENTE
+2021-04-29 18130583: Ayram Ochoa : PRESENTE
+2021-04-29 17130836: Juan Carlos Romo : PRESENTE
+2021-04-29 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-29 17130854: Antonio Zandate : PRESENTE
+2021-04-29 18130576: Alejandro Medina : PRESENTE
+2021-04-30 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-30 17130852: Erick Villegas : PRESENTE
+2021-04-30 18130588: Cristian Piña : PRESENTE
+2021-04-30 18130583: Ayram Ochoa : PRESENTE
+2021-04-30 17130073: Adal Vega : PRESENTE
+2021-04-30 17130801: Salma Mazuca : PRESENTE
+2021-04-30 171000302: Iztac Wong : PRESENTE
+2021-04-30 18130561: JESUS  GONZALEZ : PRESENTE
+2021-04-30 16130783: Luis Alferez : PRESENTE
+2021-04-30 18130586: Juan Carlos Perez : PRESENTE
+2021-04-30 18130534: Juan Arellano : PRESENTE
+2021-04-30 18130592: Javier Ramirez : PRESENTE
+2021-04-30 17130059: Iván Rios Carrillo : PRESENTE
+2021-04-30 18130575: Armando Mayorga : PRESENTE
+2021-04-30 17130844: Marcos Saucedo : PRESENTE
+2021-04-30 18130576: Alejandro Medina : PRESENTE
+2021-04-30 17130854: Antonio Zandate : PRESENTE
+2021-04-30 17131621: Ricardo Martinez : PRESENTE
+2021-04-30 15131296: Armando Cabral : PRESENTE
+2021-04-30 17130073: Adal Vega : PRESENTE
+2021-04-30 17130848: Angel Eduardo Soto García : PRESENTE
+2021-04-30 16130783: Luis Alferez : PRESENTE
+2021-04-30 17130043: Ricardo Juarez Martinez : PRESENTEE
+2021-04-30 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-04-30 18130597: Juan Robles Lara : PRESENTE
+2021-04-30 18131209: Misael Adame : PRESENTE
+2021-04-30 17130004: Aylin Arias Fernandez : PRESENTE
+2021-04-30 17131623: Jose Rodriguez : PRESENTE
+2021-04-30 17130852: Erick Villegas : PRESENTE
+2021-04-30 17130836: Juan Carlos Romo : PRESENTE
+2021-04-30 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-04-30 18130586: Juan Carlos Perez : PRESENTE
+2021-04-30 17130801: Salma Mazuca : PRESENTE
+2021-04-30 18130561: JESUS  GONZALEZ : PRESENTE
+2021-04-30 15131296: Armando Cabral : PRESENTE
+2021-04-30 17130028: Patricia Garcia : PRESENTE
+2021-04-30 18130534: Juan Arellano : PRESENTE
+2021-04-30 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-04-30 18130588: Cristian Piña : PRESENTE
+2021-04-30 16131450: Brenda Gpe Esquivel mayorga : Presente
+2021-04-30 171000063: Francisco Reza :   PRESENTE
+2021-05-03 17130004: Aylin Arias Fernandez : PRESENTE
+2021-05-03 18130583: Ayram Ochoa : PRESENTE
+2021-05-03 18130561: Jesus Gonzalez : PRESENTE
+2021-05-03 17130801: Salma Mazuca : PRESENTE
+2021-05-03 18131209: Misael Adame : PRESENTE
+2021-05-03 18130534: Juan Arellano : PRESENTE
+2021-05-03 17130839: Andrés Rubín : PRESENTE
+2021-05-03 18130588: Cristian Piña : PRESENTE
+2021-05-03 18130576: Alejandro Medina : PRESENTE
+2021-05-03 171000302: Iztac Wong : PRESENTE
+2021-05-03 17130844: Marcos Saucedo : PRESENTE
+2021-05-03 18130592: Javier Ramirez : PRESENTE
+2021-05-03 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-05-03 18130597: Juan Robles Lara : PRESENTE
+2021-05-03 17130073: Adal Vega : PRESENTE
+2021-05-03 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-05-03 17130848: Angel Eduardo Soto García : PRESENTE
+2021-05-03 18130575: Armando Mayorga : PRESENTE
+2021-05-03 17131621: Ricardo Martinez : PRESENTE
+2021-05-03 18130586: Juan Carlos Perez : PRESENTE
+2021-05-03 16130783: Luis Alferez : PRESENTE
+2021-05-03 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-05-03 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-05-03 17130576: Miguel Angel Aguilera Medina : PRESENTE
+2021-05-03 17130852: Erick Villegas : PRESENTE
+2021-05-03 17130028: Patricia Garcia : PRESENTE
+2021-05-03 17130026: Juan Franco : PRESENTE
+2021-05-03 16130812: Manuel Gutierrez : PRESENTE
+2021-05-03 171000063: Francisco Reza : PRESENTE
+2021-05-03 15131296: Armando Cabral : PRESENTE
+2021-05-03 17130854: Antonio Zandate : PRESENTE
+2021-05-03 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-05-03 17131623: Jose Rodriguez : PRESENTE
+2021-05-03 17130836: Juan Carlos Romo : PRESENTE
+2021-05-03 17130059: Iván Rios Carrillo : PRESENTE
+2021-05-04 17130004: Aylin Arias Fernandez : PRESENTE
+2021-05-04 18130575: Armando Mayorga : PRESENTE
+2021-05-04 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-05-04 17131623: Jose Rodriguez : PRESENTE
+2021-05-04 17130848: Angel Eduardo Soto García : PRESENTE
+2021-05-04 171000302: Iztac Wong : PRESENTE
+2021-05-04 17130073: Adal Vega : PRESENTE
+2021-05-04 17131621: Ricardo Martinez : PRESENTE
+2021-05-04 17130801: Salma Mazuca : PRESENTE
+2021-05-04 18130583: Ayram Ochoa : PRESENTE
+2021-05-04 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-05-04 17130836: Juan Carlos Romo : PRESENTE
+2021-05-04 17130852: Erick Villegas : PRESENTE
+2021-05-04 18130561: Jesus Gonzalez : PRESENTE
+2021-05-04 18130588: Cristian Piña : PRESENTE
+2021-05-04 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-05-04 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-05-04 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-05-04 18130586: Juan Carlos Perez : PRESENTE
+2021-05-04 18130592: Javier Ramirez : PRESENTE
+2021-05-04 171000063: Francisco Reza : PRESENTE
+2021-05-04 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-05-04 16130783: Luis Alferez : PRESENTE
+2021-05-04 18131209: Misael Adame : PRESENTE
+2021-05-04 18130534: Juan Arellano : PRESENTE
+2021-05-04 17130844: Marcos Saucedo : PRESENTE
+2021-05-04 16130812: Manuel Gutiérrez : PRESENTEEEEE
+2021-05-04 15131296: Armando Cabral : PRESENTE
+2021-05-04 18130576: MEDINA LUJAN ALEJANDRO ISRAEL : presente
+2021-05-04 17130059: RIOS CARRILLO IVAN : presente
+2021-05-04 17130028: GARCIA ALMANZA PATRICIA : justificado
+2021-05-07 17130852: Erick Villegas  to  Everyone : PRESENTYE
+2021-05-07 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-05-07 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-05-07 17131621: Ricardo Martinez  to  Everyone : PRESENTE
+2021-05-07 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-05-07 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-05-07 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-05-07 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-05-07 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-05-07 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-05-07 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-05-07 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-05-07 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-05-07 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-05-07 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-05-07 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-05-07 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-05-07 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-05-07 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-05-07 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-07 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-05-07 18130576: Alejandro Israel Medina Lujan  to  Everyone : PRESENTE
+2021-05-07 17130850: Jesus Daniel Valdez Rodriguez  to  Everyone : PRESENTE
+2021-05-07 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-05-07 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-05-07 16130812: Manuel Gutiérrez  to  Everyone : PRESENTE
+2021-05-07 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-05-07 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-05-07 17131623: Jose Rodriguez  to  Everyone : PRESENTE
+2021-05-07 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-05-10 17130073: Adal Vega : PRESENTE
+2021-05-10 18130561: Jesus Gonzalez : PRESENTE
+2021-05-10 17130848: Angel Eduardo Soto García : PRESENTE
+2021-05-10 17130801: Salma Mazuca : PRESENTE
+2021-05-10 18131209: Misael Adame : PRESENTE
+2021-05-10 18130583: Ayram Ochoa : PRESENTE
+2021-05-10 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-05-10 17130004: Aylin Arias Fernandez : PRESENTE
+2021-05-10 17130059: Iván Rios Carrillo : PRESENTE
+2021-05-10 171000302: Iztac Wong : PRESENTE
+2021-05-10 18130534: Juan Arellano : PRESENTE
+2021-05-10 17131621: Ricardo Martinez : PRESENTE
+2021-05-10 18130592: Javier Ramirez : PRESENTE
+2021-05-10 17130839: Andrés Rubín : PRESENTE
+2021-05-10 17130836: Juan Carlos Romo : PRESENTE
+2021-05-10 17130844: Marcos Saucedo : PRESENTE
+2021-05-10 171000063: Francisco Reza : PRESENTE
+2021-05-10 18130586: Juan Carlos Perez : PRESENTE
+2021-05-10 17130852: Erick Villegas : PRESENTE
+2021-05-10 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-05-10 16130783: Luis Alferez : PRESENTE
+2021-05-10 18130576: Alejandro Medina : PRESENTE
+2021-05-10 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-05-10 18130597: Juan Robles Lara : PRESENTE
+2021-05-10 17131623: Jose Rodriguez : PRESENTE
+2021-05-10 16130812: Manuel Gutiérrez : PRESENTE
+2021-05-10 17130026: Juan Franco : PRESENTE
+2021-05-11 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-05-11 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-05-11 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-05-11 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-05-11 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-05-11 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-05-11 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-05-11 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-05-11 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-05-11 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-05-11 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-05-11 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-05-11 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-05-11 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-05-11 16130812: Manuel Gutiérrez  to  Everyone : PRESENTE
+2021-05-11 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-05-11 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-05-11 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-05-11 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-05-11 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-05-11 17130576: Miguel Ángel Aguilera Medina  to  Everyone : PRESENTE
+2021-05-11 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-05-11 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-11 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-05-11 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-05-11 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-05-11 18130583: OCHOA HERNANDEZ AYRAM DOMINYCKE : PRESENTE
+2021-05-11 18130576: MEDINA LUJAN ALEJANDRO ISRAEL : PRESENTE
+2021-05-14 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-05-14 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-05-14 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-05-14 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-05-14 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-05-14 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-05-14 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-05-14 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-05-14 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-05-14 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-05-14 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-05-14 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-05-14 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-05-14 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-05-14 18130576: Alejandro Israel Medina Lujan  to  Everyone : PRESENTE
+2021-05-14 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-05-14 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-05-14 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-05-14 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-14 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-05-14 17131621: Ricardo Martinez  to  Everyone : PRESENTE
+2021-05-14 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-05-14 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-05-14 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-05-14 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-05-14 17130576: Miguel Angel Aguilera Medina  to  Everyone : PRESENTE
+2021-05-18 18130561: Jesus Gonzalez : PRESENTE
+2021-05-18 18130583: Ayram Ochoa : PRESENTE
+2021-05-18 18130575: Armando Mayorga : PRESENTE
+2021-05-18 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-05-18 17130004: Aylin Arias Fernandez : PRESENTE
+2021-05-18 17130836: Juan Carlos Romo : PRESENTE
+2021-05-18 17130073: Adal Vega : PRESENTE
+2021-05-18 171000063: Francisco Reza : PRESENTE
+2021-05-18 17130026: Juan Franco : PRESENTE
+2021-05-18 18130588: Cristian Piña : PRESENTE
+2021-05-18 18130534: Juan Arellano : PRESENTE
+2021-05-18 17130844: Marcos Saucedo : PRESENTE
+2021-05-18 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-05-18 18130586: Juan Carlos Perez : PRESENTE
+2021-05-18 17131621: Ricardo Martinez : PRESENTE
+2021-05-18 17130059: Iván Rios Carrillo : PRESENTE
+2021-05-18 18130576: Alejandro Israel Medina Lujan : PRESENTE
+2021-05-18 17131623: Jose Rodriguez : PRESENTE
+2021-05-18 17130848: Angel Eduardo Soto García : PRESENTE
+2021-05-18 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-05-18 18130592: Javier Ramirez : PRESENTE
+2021-05-18 17130028: Patricia Garcia : PRESENTE
+2021-05-18 16130812: Manuel Gutierrez : PRESENTE
+2021-05-18 15131296: Armando Cabral : PRESENTE
+2021-05-18 18130597: Juan Robles Lara : PRESENTE
+2021-05-18 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-05-18 17130852: Erick Villegas : PRESENTE
+2021-05-18 17130801: Salma Mazuca : PRESENTE
+2021-05-18 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-05-18 18131209: Misael Adame : PRESENTE
+2021-05-18 17130854: Antonio Zandate : presente
+2021-05-19 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-05-19 17130004: Aylin Arias Fernandez  to  Everyone : PRSENTE
+2021-05-19 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-05-19 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-05-19 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-05-19 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-05-19 17131621: Ricardo Martinez  to  Everyone : PRESENTE
+2021-05-19 18130576: Alejandro Israel Medina Lujan  to  Everyone : PRESENTE
+2021-05-19 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-05-19 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-05-19 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-05-19 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-05-19 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-05-19 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-05-19 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-05-19 15131296: Armando Cabral  to  Everyone : PRESENTE
+2021-05-19 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-05-19 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-05-19 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-05-19 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-05-19 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-19 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-05-19 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-05-19 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-05-19 17130576: Miguel Ángel Aguilera Medina  to  Everyone : PRESENTE
+2021-05-19 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-05-19 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-05-19 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-05-19 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-05-19 16131450: ESQUIVEL MAYORGA BRENDA GUADALUPE : justificado
+2021-05-19 171000302: WONG AYALA IZTAC EDUARDO : justificado
+2021-05-21 17130073: Adal Vega : PRESENTE
+2021-05-21 17130848: Angel Eduardo Soto García : PRESENTE
+2021-05-21 18130575: Armando Mayorga : PRESENTE
+2021-05-21 17130004: Aylin Arias Fernandez : PRESENTE
+2021-05-21 17131621: Ricardo Martinez : PRESENTE
+2021-05-21 171000302: Iztac Wong : PRESENTE
+2021-05-21 18130588: Cristian Piña : PRESENTE
+2021-05-21 18130576: Alejandro Israel Medina Lujan : PRESENTE
+2021-05-21 17130844: Marcos Saucedo : PRESENTE
+2021-05-21 17130026: Juan Franco : PRESENTE
+2021-05-21 18130597: Juan Robles Lara : PRESENTE
+2021-05-21 18130561: Jesus Gonzalez : PRESENTE
+2021-05-21 17130043: Ricardo Juarez Martinez : presente
+2021-05-21 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-05-21 18130586: Juan Carlos Perez : PRESENTE
+2021-05-21 18131209: Misael Adame : PRESENTE
+2021-05-21 171000063: Francisco Reza : PRESENTE
+2021-05-21 17130801: Salma Mazuca : PRESENTE
+2021-05-21 18130534: Juan Arellano : PRESENTE
+2021-05-21 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-05-21 16130783: Luis Alferez : PRESENTE
+2021-05-21 17130059: Iván Rios Carrillo : PRESENTE
+2021-05-21 17130836: Juan Carlos Romo : PRESENTE
+2021-05-21 18130592: Javier Ramirez : PRESENTE
+2021-05-21 17130028: Patricia Garcia : PRESENTE
+2021-05-21 16130812: Manuel Gutierrez : PRESENTEEEEE
+2021-05-21 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-05-21 15450676: William Alberto Fabela Dávalos : PRESENTE
+2021-05-21 17130852: Erick Villegas : PRESENTE
+2021-05-21 18130583: Ayram Ochoa : PRESENTE
+2021-05-24 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-05-24 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-05-24 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-05-24 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-05-24 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-05-24 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-05-24 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-05-24 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-05-24 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-05-24 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-05-24 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-05-24 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-05-24 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-05-24 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-05-24 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-05-24 18130576: Alejandro Medina  to  Everyone : PRESENTE
+2021-05-24 17131621: Ricardo Martinez  to  Everyone : PRESENTE
+2021-05-24 15450676: William Alberto Fabela Dávalos  to  Everyone : PRESENTE
+2021-05-24 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-05-24 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-05-24 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-05-24 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-05-24 17130850: Jesus Daniel Valdez Rodriguez  to  Everyone : PRESENTE
+2021-05-24 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-05-24 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-05-24 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-24 17130576: Miguel Angel Aguilera Medina  to  Everyone : PRESENTE
+2021-05-24 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-05-24 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-05-24 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-05-25 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-25 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-05-25 17130004: Aylin Arias Fernandez  to  Everyone : PRESENTE
+2021-05-25 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-05-25 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-05-25 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-05-25 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-05-25 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-05-25 17130854: Antonio Zandate  to  Everyone : PRESENTE
+2021-05-25 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-05-25 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTE
+2021-05-25 18130576: Alejandro Medina  to  Everyone : PRESENTE
+2021-05-25 17130576: Miguel Angel Aguilera Medina  to  Everyone : PRESENTE
+2021-05-25 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-05-25 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-05-25 17130059: Iván Rios Carrillo  to  Everyone : PRESENTE
+2021-05-25 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-05-25 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-05-25 17130850: Jesus Daniel Valdez Rodriguez  to  Everyone : PRESENTE
+2021-05-25 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-05-25 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-05-25 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-05-25 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-05-25 17131623: Jose Rodriguez  to  Everyone : PRESENTE
+2021-05-25 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-05-25 17100063: Francisco Reza  to  Everyone : presente
+2021-05-25 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-05-26 171000302: Iztac Wong  to  Everyone : PRESENTE
+2021-05-26 18130588: Cristian Piña  to  Everyone : PRESENTE
+2021-05-26 18130561: Jesus Gonzalez  to  Everyone : PRESENTE
+2021-05-26 17131621: Ricardo Martinez  to  Everyone : PRESENTE
+2021-05-26 17130073: Adal Vega  to  Everyone : PRESENTE
+2021-05-26 18130583: Ayram Ochoa  to  Everyone : PRESENTE
+2021-05-26 18130597: Juan Robles Lara  to  Everyone : PRESENTE
+2021-05-26 17130764: Barajas Cabrales Cristian  to  Everyone : PRESENTE
+2021-05-26 17130004: Aylin Arias Fernandez  to  Everyone : PRENSENTE
+2021-05-26 17130852: Erick Villegas  to  Everyone : PRESENTE
+2021-05-26 18130575: Armando Mayorga  to  Everyone : PRESENTE
+2021-05-26 17130848: Angel Eduardo Soto García  to  Everyone : PRESENTE
+2021-05-26 16130783: Luis Alferez  to  Everyone : PRESENTE
+2021-05-26 18130592: Javier Ramirez  to  Everyone : PRESENTE
+2021-05-26 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-26 17130026: Juan Franco  to  Everyone : PRESENTE
+2021-05-26 16131450: Brenda Gpe Esquivel mayorga  to  Everyone : PRESENTE
+2021-05-26 18130586: Juan Carlos Perez  to  Everyone : PRESENTE
+2021-05-26 171000063: Francisco Reza  to  Everyone : PRESENTE
+2021-05-26 18130534: Juan Arellano  to  Everyone : PRESENTE
+2021-05-26 17130801: Salma Mazuca  to  Everyone : PRESENTE
+2021-05-26 17130844: Marcos Saucedo  to  Everyone : PRESENTE
+2021-05-26 18130576: Alejandro Israel Medina Lujan  to  Everyone : PRESENTE
+2021-05-26 16130812: Manuel Gutierrez  to  Everyone : PRESENTE
+2021-05-26 17130043: Ricardo Juarez Martinez  to  Everyone : PRESENTEE
+2021-05-26 17130787: Sergio Garcia Barrientos  to  Everyone : PRESENTE
+2021-05-26 17130836: Juan Carlos Romo  to  Everyone : PRESENTE
+2021-05-26 18131209: Misael Adame  to  Everyone : PRESENTE
+2021-05-26 15131296: Armando Cabral  to  Everyone : PRESENTE
+2021-05-26 17130028: Patricia Garcia  to  Everyone : PRESENTE
+2021-05-26 17130854: Antonio Zandate  to  Everyone : PRESENTE
+2021-05-27 171000302: Iztac Wong : PRESENTE
+2021-05-27 17130004: Aylin Arias Fernandez : PRESENTE
+2021-05-27 17130026: Juan Franco : PRESENTE
+2021-05-27 17130073: Adal Vega : PRESENTE
+2021-05-27 18130575: Armando Mayorga : PRESENTE
+2021-05-27 18130597: Juan Robles Lara : PRESENTE
+2021-05-27 18130561: Jesus Gonzalez : PRESENTE
+2021-05-27 17130764: Barajas Cabrales Cristian : PRESENTE
+2021-05-27 17130836: Juan Carlos Romo : PRESENTE
+2021-05-27 17130854: Antonio Zandate : PRESENTE
+2021-05-27 18130576: Alejandro Israel Medina Lujan : PRESENTE
+2021-05-27 17130028: Patricia Garcia : PRESENTE
+2021-05-27 17130852: Erick Villegas : PRESENTE
+2021-05-27 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-05-27 18131209: Misael Adame : PRESENTE
+2021-05-27 17130844: Marcos Saucedo : PRESENTE
+2021-05-27 18130588: Cristian Piña : PRESENTE
+2021-05-27 16130783: Luis Alferez : PRESENTE
+2021-05-27 18130586: Juan Carlos Perez : PRESENTE
+2021-05-27 17130848: Angel Eduardo Soto García : PRESENTE
+2021-05-27 18130534: Juan Arellano : PRESENTE
+2021-05-27 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-05-27 18130583: Ayram Ochoa : PRESENTE
+2021-05-27 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-05-27 17130801: Salma Mazuca : PRESENTE
+2021-05-27 18130592: Javier Ramirez : PRESENTE
+2021-05-27 16130812: Manuel Gutierrez : PRESENTE
+2021-05-27 17131623: Jose Rodriguez : PRESENTE
+2021-05-27 171000063: Francisco Reza : PRESENTE
+2021-06-08 18130588: Cristian Piña : PRESENTE
+2021-06-08 18130575: Armando Mayorga : PRESENTE
+2021-06-08 17130073: Adal Vega : PRESENTE
+2021-06-08 17131621: Ricardo Martinez : PRESENTE
+2021-06-08 17130852: Erick Villegas : PRESENTE
+2021-06-08 17130004: Aylin Arias Fernandez : PRESENTE
+2021-06-08 17130026: Juan Franco : PRESENTE
+2021-06-08 18131209: Misael Adame : PRESENTE
+2021-06-08 17130848: Angel Eduardo Soto García : PRESENTE
+2021-06-08 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-06-08 18130583: Ayram Ochoa : PRESENTE
+2021-06-08 171000302: Iztac Wong : PRESENTE
+2021-06-08 18130561: Jesus Gonzalez : PRESENTE
+2021-06-08 18130586: Juan Carlos Perez : PRESENTE
+2021-06-08 171000063: Francisco Reza : PRESENTE
+2021-06-08 18130592: Javier Ramirez : PRESENTE
+2021-06-08 18130534: Juan Arellano : PRESENTE
+2021-06-08 17131623: Jose Rodriguez : PRESENTE
+2021-06-08 17130059: Iván Rios Carrillo : PRESENTE
+2021-06-08 15131296: Armando Cabral : PRESENTE
+2021-06-08 18130576: Alejandro Israel Medina Lujan : PRESENTE
+2021-06-08 17130801: Salma Mazuca : PRESENTE
+2021-06-08 16130812: Manuel Gutiérrez : PRESENTE
+2021-06-08 17130764: Cristian Barajas Cabrales : PRESENTE
+2021-06-08 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-06-08 16130783: Luis Alferez : PRESENTE
+2021-06-08 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-06-08 17130836: Juan Carlos Romo : PRESENTE
+2021-06-08 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-06-08 17130028: Garcia Almanza Patricia : PRESENTE
+2021-06-09 17130059: Iván Rios Carrillo : PRESENTE
+2021-06-09 16130812: Manuel Gutiérrez : PRESENTE
+2021-06-09 18130534: Juan Arellano : PRESENTE
+2021-06-09 18130575: Armando Mayorga : PRESENTE
+2021-06-09 17130848: Angel Eduardo Soto García : PRESENTE
+2021-06-09 17130852: Erick Villegas : PRESENTE
+2021-06-09 17130004: Aylin Arias Fernandez : PRESENTE
+2021-06-09 18130576: Alejandro Medina : PRESENTE
+2021-06-09 18130583: Ayram Ochoa : PRESENTE
+2021-06-09 18130561: JESUS  GONZALEZ : PRESENTE
+2021-06-09 17130801: Salma Mazuca : PRESENTE
+2021-06-09 17130844: Marcos Saucedo : PRESENTE
+2021-06-09 18130588: Cristian Piña : PRESENTE
+2021-06-09 17130764: Cristian Barajas Cabrales : PRESENTE
+2021-06-09 18130586: Juan Carlos Perez : PRESENTE
+2021-06-09 17130787: Sergio Garcia Barrientos : PRESENTE
+2021-06-09 18131209: Misael Adame : PRESENTE
+2021-06-09 171000302: Iztac Wong : PRESENTE
+2021-06-09 17130026: Juan Franco : PRESENTE
+2021-06-09 17131621: Ricardo Martinez : PRESENTE
+2021-06-09 17131623: Jose Rodriguez : PRESENTE
+2021-06-09 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
+2021-06-09 18130597: JUAN ROBLES LARA : PRESENTE
+2021-06-09 15131296: Armando Cabral : PRESENTE
+2021-06-09 17130028: Patricia Garcia : PRESENTE
+2021-06-09 17130836: Juan Carlos Romo : PRESENTE
+2021-06-09 17130073: Adal Vega : PRESENTE
+2021-06-09 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-06-09 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-06-09 17130576: Miguel Ángel Aguilera Medina : PRESENTE
+2021-06-09 171000063: REZA JARA PEDRO FRANCISCO : Justificado
+2021-06-09 16130783: ALFEREZ HERNANDEZ LUIS DE JESUS : Justificado
+2021-06-10 17130848: Angel Eduardo Soto García : PRESENTE
+2021-06-10 17130073: Adal Vega : PRESENTE
+2021-06-10 18135061: JESUS  GONZALEZ : PRESENTE
+2021-06-10 17130787: Sergio Garcia Barreientos : PRESENTE
+2021-06-10 17130028: Patricia Garcia : PRESENTE
+2021-06-10 171000302: Iztac Wong : PRESENTE
+2021-06-10 17130004: Aylin Arias Fernandez : PRESENTE
+2021-06-10 18131209: Misael Adame : PRESENTE
+2021-06-10 171000063: Francisco Reza : PRESENTE
+2021-06-10 18130575: Armando Mayorga : PRESENTE
+2021-06-10 17131621: Ricardo Martinez : PRESENTE
+2021-06-10 18130592: Javier Ramirez : PRESENTE
+2021-06-10 18130534: Juan Arellano : PRESENTE
+2021-06-10 17130764: Cristian Barajas Cabrales : PRESENTE
+2021-06-10 17130844: Marcos Saucedo : PRESENTE
+2021-06-10 18130588: Cristian Piña : PRESENTE
+2021-06-10 17130043: Ricardo Juarez Martinez : PRESENTE
+2021-06-10 16131450: Brenda Gpe Esquivel mayorga : PRESENTE
+2021-06-10 17130801: Salma Mazuca : PRESENTE
+2021-06-10 17130852: Erick Villegas : PRESENTE
+2021-06-10 15131296: Armando Cabral : PRESENTE
+2021-06-10 16130783: Luis Alferez : PRESENTE
+2021-06-10 17130026: Juan Franco : PRESENTE
+2021-06-10 18130583: Ayram Ochoa : PRESENTE
+2021-06-10 18130597: JUAN ROBLES LARA : PRESENTE
+2021-06-10 17130059: Iván Rios Carrillo : PRESENTE
+2021-06-10 18130576: Alejandro Medina : PRESENTE
+2021-06-10 16130812: Manuel Gutiérrez : PRESENTE
+2021-06-11 18130575: Armando Mayorga : PRESENTE
+2021-06-11 17130073: Adal Vega : PRESENTE
+2021-06-11 17130004: Aylin Arias Fernandez : PRESENTE
+2021-06-11 17130854: Antonio Zandate : PRESENTE
+2021-06-11 18130588: Cristian Piña : PRESENTE
+2021-06-11 16130812: Manuel Gutierrez : PRESENTE
+2021-06-11 18130561: Jesus Gonzalez : PRESENTE
+2021-06-11 18130583: Ayram Ochoa : PRESENTE
+2021-06-11 171000302: Iztac Wong : PRESENTE
+2021-06-11 17130848: Angel Eduardo Soto García : PRESENTE
+2021-06-11 171000063: Francisco Reza : PRESENTE
+2021-06-11 17130764: Cristian Barajas Cabrales : PRESENTE
+2021-06-11 17130026: Juan Franco : PRESENTE
+2021-06-11 16130783: Luis Alferez : PRESENTE
+2021-06-11 17130787: Sergio Garcia Barreientos : PRESENTE
+2021-06-11 17130059: Iván Rios Carrillo : PRESENTE
+2021-06-11 18130576: Alejandro Medina : PRESENTE
+2021-06-11 17130852: Erick Villegas : PRESENTE
+2021-06-11 18131209: Misael Adame : PRESENTE
+2021-06-11 18130534: Juan Arellano : PRESENTE
+2021-06-11 18130592: Javier Ramirez : PRESENTE
+2021-06-11 17130844: Marcos Saucedo : PRESENTE
+2021-06-11 17130801: Salma Mazuca : PRESENTE
+2021-06-11 17130028: Patricia Garcia : PRESENTE
+2021-06-11 17130836: Juan Carlos Romo : PRESENTE
+2021-06-11 18130597: JUAN ROBLES LARA : PRESENTE
+2021-06-11 17130850: Jesus Daniel Valdez Rodriguez : PRESENTE
